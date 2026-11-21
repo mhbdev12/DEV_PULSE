@@ -110,4 +110,4 @@ msix_config:
   identity_name: com.hamza.devpulse
   logo_path: assets/pics/timer_app.png
   capabilities: internetClient
-  install_certificate: true
+  install_certificate: false
