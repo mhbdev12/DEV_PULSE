@@ -106,7 +106,8 @@ flutter_launcher_icons:
 msix_config:
   display_name: Dev Pulse
   publisher_display_name: Hamza
+  publisher: CN=Hamza
   identity_name: com.hamza.devpulse
   logo_path: assets/pics/timer_app.png
   capabilities: internetClient
-  install_certificate: false
+  install_certificate: true
